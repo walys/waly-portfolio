@@ -1,0 +1,67 @@
+
+.carousel {
+    margin: -35px;
+	position: relative;
+	max-width: 600px;
+	margin: auto;
+	overflow: hidden;
+}
+
+.carousel-images {
+	display: flex;
+	transition: transform 0.5s ease-in-out;
+}
+
+.carousel-images img {
+	width: 65%;
+	display: none; /* Esconde todas as imagens por padrão */
+}
+
+.carousel-images img.active {
+	display: block; /* Mostra apenas a imagem ativa */
+}
+
+.carousel-images2 {
+	display: flex;
+	transition: transform 0.5s ease-in-out;
+}
+
+.carousel-images2 img {
+	width: 65%;
+	display: none; /* Esconde todas as imagens por padrão */
+}
+
+.carousel-images2 img.active {
+	display: block; /* Mostra apenas a imagem ativa */
+}
+
+
+
+.carousel-images3 {
+	display: flex;
+	transition: transform 0.5s ease-in-out;
+}
+
+.carousel-images3 img {
+	width: 65%;
+	display: none; /* Esconde todas as imagens por padrão */
+}
+
+.carousel-images3 img.active {
+	display: block; /* Mostra apenas a imagem ativa */
+}
+
+
+.carousel-images4 {
+	display: flex;
+	transition: transform 0.5s ease-in-out;
+}
+
+.carousel-images4 img {
+	width: 65%;
+	display: none; /* Esconde todas as imagens por padrão */
+}
+
+.carousel-images4 img.active {
+	display: block; /* Mostra apenas a imagem ativa */
+}
